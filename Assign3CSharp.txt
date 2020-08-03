@@ -1,0 +1,119 @@
+"Objectives: To understand   arrays in C#.
+
+Problem description:
+Create one console application ConsoleAnimal
+Declare an array MyArray of size 5 in MAIN method, which will take five names of animal.
+i.e. 
+{"Zebra","Ant","Owl","Lion"}
+
+Write a program  to print the above MyArray in the sequence given above by using following 
+Loops.
+i)	For loop.
+ii)	Foreach loop.
+iii)	Do While loop.
+iv)	While loop.
+
+Also display the same array list in sorted order i.e. alphabetically.
+
+Declare two more string arrays  “animals” and “places” which will take following  entries
+ {"Zebra","Kiwi","Amazona Parrot","Tiger"}
+ 
+{"Africa","New Zealand","Jamaica","India"} 
+
+Respectively. Display them one by one after sorting them by order using foreach loop.
+
+****************************************
+
+
+ASSIGNMENT 2
+Objectives:
+
+1.	To understand Abstract Class
+2.	To understand Interface 
+
+Problem Description: 
+
+1.	Create an interface IVolume which has following methods.
+which contains read-only property which returns double as Volume
+double Volume{get;}
+
+2.	Create an interface IArea with method SurfaceArea() with returns double.
+
+3.	Create an interface ISolid which inherits the above interfaces.
+
+4.	Create an Abstract class  Class Solid which implements ISolid 
+            Add two attributes as 
+a.	radius               -----double
+b.	pi   = 3.142       -----Constant double
+            
+            Create public readonly property of Volume as 
+      public abstract double Volume
+       {
+         get;
+       }
+        
+             Declare an Abstract Method of Interface in it.
+             Create a Constructor of Class Solid.
+             Create Public Properties for attributes;
+
+5.	Create a Concrete Class Cylinder which derives from Class SOLID 
+with Attributes double height  -
+ 
+i.	Volume =  pi * Radius * Radius * height;
+ii.	Surface Area = 2 * pi * Radius * (Radius + height)
+    
+        Override the Property Volume & pass the Formula to it which will return Volume.
+        Show appropriate implementation method SurfaceArea ()
+Create Appropriate Constructors for Class Cylinder
+
+      
+6.	Create a Class Sphere which inherits from class solid 
+
+a.	Create a Constructor which will take parameters from base class.
+b.	Override method which will return surface area using Formula
+  (4 / 3) * pi * Radius * Radius * Radius;
+c.	Override Property Volume which will calculate the Sphere 
+ Using following formula
+                         4 * pi * Radius * Radius;
+
+7.	In Class Program
+      
+       Create a Static Method which will take ISolid object reference 
+    As a input variable. Method will give output of Volume & Surface 
+    Of Cylinder & Sphere. 
+   
+           In Main Method Create the Object of Cylinder Class & Sphere 
+       Class and call the Show Method & show the output as Following 
+  
+                   
+           
+ 
+
+
+
+Assignment 3 
+Objectives:
+ 
+1.	To understand all string operations. 
+ 
+Problem Description: 
+ 
+1.	Create a console application which takes input as two strings. 
+2.	Create a menu which has String Operations as menu Items as shown in given screen shot.
+g `
+3.	Perform all the operations mentioned on entered strings properly.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
