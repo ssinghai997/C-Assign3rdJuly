@@ -1,0 +1,7 @@
+D:\DotNet-training\AbstractAndInterfaceAssign\AbstractAndInterfaceAssign\bin\Debug\AbstractAndInterfaceAssign.exe.config
+D:\DotNet-training\AbstractAndInterfaceAssign\AbstractAndInterfaceAssign\bin\Debug\AbstractAndInterfaceAssign.exe
+D:\DotNet-training\AbstractAndInterfaceAssign\AbstractAndInterfaceAssign\bin\Debug\AbstractAndInterfaceAssign.pdb
+D:\DotNet-training\AbstractAndInterfaceAssign\AbstractAndInterfaceAssign\obj\Debug\AbstractAndInterfaceAssign.csprojAssemblyReference.cache
+D:\DotNet-training\AbstractAndInterfaceAssign\AbstractAndInterfaceAssign\obj\Debug\AbstractAndInterfaceAssign.csproj.CoreCompileInputs.cache
+D:\DotNet-training\AbstractAndInterfaceAssign\AbstractAndInterfaceAssign\obj\Debug\AbstractAndInterfaceAssign.exe
+D:\DotNet-training\AbstractAndInterfaceAssign\AbstractAndInterfaceAssign\obj\Debug\AbstractAndInterfaceAssign.pdb
